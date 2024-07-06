@@ -75,10 +75,10 @@ stable-diffusion-image-generator/
 Here are some examples of images generated using different text prompts:
 
 ### Example 1: "A beautiful sunset over a mountain range"
-![Sunset over mountains](generated_images\example1.png)
+![Sunset over mountains](generated_images/example1.png)
 
 ### Example 2: "A futuristic cityscape at night"
-![Futuristic cityscape](generated_images\example2.png)
+![Futuristic cityscape](generated_images/example2.png)
 
 ### Example 3: "A serene beach with clear blue water"
 ![Serene beach](generated_images/example3.png)
